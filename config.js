@@ -1,5 +1,9 @@
 'use strict';
-
+let userName = '';
 function  getUser() {
-    return 'Lateef';
+    return 'Tolani';
+}
+
+function setUserName(user) {
+    userName = user;
 }
