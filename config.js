@@ -1,5 +1,11 @@
 'use strict';
 
-function  getUser(userId) {
-    return `User: ${userId.toUpperCase()}`;
+
+let userName = '';
+function  getUser() {
+    return 'Tolani';
+}
+
+function setUserName(user) {
+    userName = user;
 }

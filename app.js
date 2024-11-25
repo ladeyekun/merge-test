@@ -1,4 +1,4 @@
 'use strict';
 
-const appName = 'Token App';
-const appVersion = '1.1.1';
+const appName = 'Vending App';
+const appVersion = 2.0;
