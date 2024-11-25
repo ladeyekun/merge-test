@@ -1,5 +1,5 @@
 'use strict';
 
-function  getUser() {
-    return 'Lateef';
+function  getUser(userId) {
+    return `User: ${userId}`;
 }
